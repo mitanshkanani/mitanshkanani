@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Mitansh 👋
 
-<!--
-**mitanshkanani/mitanshkanani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Co-Founder & Technical Lead @ [GOCO](https://github.com/Thryza-creators/GOCO) — building a custom programming language, IDE, and compiler.
 
-Here are some ideas to get you started:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mitanshkanani/mitanshkanani/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mitanshkanani/mitanshkanani/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/mitanshkanani/mitanshkanani/output/github-contribution-grid-snake.svg" />
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech Stack:** React, Node.js, Express, Java, Python, PostgreSQL
+
+[Portfolio](https://mitanshkanani.vercel.app) • [LinkedIn](https://linkedin.com/in/mitansh-kanani-9a80812b6)
