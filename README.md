@@ -18,6 +18,16 @@ Main author of **"CodeWithDisability"** — a hands-free, voice-command IDE for 
 
 ---
 
+### 🧊 3D Contribution Calendar
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mitanshkanani/mitanshkanani/output-3d/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mitanshkanani/mitanshkanani/output-3d/profile-south.svg" />
+  <img src="https://raw.githubusercontent.com/mitanshkanani/mitanshkanani/output-3d/profile-south.svg" alt="3D contribution graph" />
+</picture>
+
+---
+
 ### 🛠️ Tech Stack
 
 <p>
