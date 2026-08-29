@@ -92,3 +92,14 @@ Main author of **"CodeWithDisability"** — a hands-free, voice-command IDE for 
 - Published researcher — Procedia Computer Science, Elsevier (ICCSCI 2025)
 
 <p align="center"><i>Currently exploring: Spring Boot depth, cloud/DevOps (AWS, Docker, CI/CD)</i></p>
+---
+
+### 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mitanshkanani&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mitanshkanani&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
