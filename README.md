@@ -68,6 +68,14 @@ Main author of **"CodeWithDisability"** — a hands-free, voice-command IDE for 
 
 ---
 
+### 📈 Full Metrics Dashboard
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mitanshkanani/mitanshkanani/metrics/metrics.svg" alt="Full metrics dashboard" />
+</p>
+
+---
+
 ### 🐍 Contribution Snake
 
 <picture>
